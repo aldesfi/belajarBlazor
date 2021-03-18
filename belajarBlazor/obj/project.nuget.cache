@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iixFpK+LW9N1Qcq/VWoqBrCQm4lb0Pll5BBJQeRfXz0j7rvppliUHZWqsVXDJzTK9HRPVY6oy3rNH26Ia99Owg==",
+  "dgSpecHash": "rP4xOPVWyzjTRBBJqmp+RRYhiZNxRoSQXqdtMExsBFjcAxpeKCyppNI0mBcLxhpWq6ygligdP0tAPc7toS8lGg==",
   "success": true,
-  "projectFilePath": "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/belajarBlazor.csproj",
+  "projectFilePath": "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/belajarBlazor.csproj",
   "expectedPackageFiles": [
     "/Users/aldes/.nuget/packages/microsoft.aspnetcore.authorization/5.0.2/microsoft.aspnetcore.authorization.5.0.2.nupkg.sha512",
     "/Users/aldes/.nuget/packages/microsoft.aspnetcore.components/5.0.2/microsoft.aspnetcore.components.5.0.2.nupkg.sha512",

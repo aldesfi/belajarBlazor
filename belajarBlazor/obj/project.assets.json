@@ -1150,11 +1150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/belajarBlazor.csproj",
+      "projectUniqueName": "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/belajarBlazor.csproj",
       "projectName": "belajarBlazor",
-      "projectPath": "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/belajarBlazor.csproj",
+      "projectPath": "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/belajarBlazor.csproj",
       "packagesPath": "/Users/aldes/.nuget/packages/",
-      "outputPath": "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/obj/",
+      "outputPath": "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
