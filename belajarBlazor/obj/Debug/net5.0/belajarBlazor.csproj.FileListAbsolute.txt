@@ -1035,7 +1035,6 @@
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/belajarBlazor.csproj.CoreCompileInputs.cache
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/belajarBlazor.MvcApplicationPartsAssemblyInfo.cache
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/belajarBlazor.RazorComponent.input.cache
-/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
@@ -1048,7 +1047,6 @@
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/belajarBlazor.TagHelpers.input.cache
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/belajarBlazor.TagHelpers.output.cache
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/belajarBlazor.RazorCoreGenerate.cache
-/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/Razor/App.razor.g.cs
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
@@ -1262,3 +1260,7 @@
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/belajarBlazor.dll
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/ref/belajarBlazor.dll
 /Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/belajarBlazor.pdb
+/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/RazorDeclaration/Depan.razor.g.cs
+/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/Razor/Depan.razor.g.cs
+/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/RazorDeclaration/Shared/KenalkanDiri.razor.g.cs
+/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/obj/Debug/net5.0/Razor/Shared/KenalkanDiri.razor.g.cs

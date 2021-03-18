@@ -1,0 +1,18 @@
+﻿<div class="alert alert-secondary mt-2" role="alert">
+    <span class="oi oi-people mr-2" aria-hidden="true"></span>
+    <strong>Nama Saya : @Nama</strong>
+</div>
+
+<div class="alert alert-secondary mt-2" role="alert">
+    <span class="oi oi-home mr-2" aria-hidden="true"></span>
+    <strong>Tempat, Tgl Lahir : @Ttl</strong>
+</div>
+
+
+@code {
+    // Demonstrates how a parent component can supply parameters
+    [Parameter]
+    public string Nama { get; set; }
+    [Parameter]
+    public string Ttl { get; set; }
+}

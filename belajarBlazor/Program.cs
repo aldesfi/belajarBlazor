@@ -15,7 +15,21 @@ namespace belajarBlazor
         public static async Task Main(string[] args)
         {
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
-            builder.RootComponents.Add<App>("#app");
+
+            var operasiSembunyikanYangMana = "operasi1";
+
+            if (operasiSembunyikanYangMana == "operasi2")
+            {
+                //Sembunyikan 1 id
+                builder.RootComponents.Add<Depan>("#operasi1");
+            }
+            else
+            {
+                //Sembunyikan 2 id
+                 builder.RootComponents.Add<Depan>("#operasi2");
+                 builder.RootComponents.Add<Depan>("#operasi1");
+            }
+           
 
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 

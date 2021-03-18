@@ -13,70 +13,70 @@ namespace belajarBlazor.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 1 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 2 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 3 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 4 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 5 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 6 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 7 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 8 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 9 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using belajarBlazor;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/_Imports.razor"
+#line 10 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/_Imports.razor"
 using belajarBlazor.Shared;
 
 #line default
@@ -91,7 +91,7 @@ using belajarBlazor.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/belajarBlazor/belajarBlazor/Pages/Counter.razor"
+#line 9 "/Users/Shared/Previously Relocated Items/Security/C#/blazor/gitVersion/belajarBlazor/belajarBlazor/Pages/Counter.razor"
        
     private int currentCount = 0;
 
